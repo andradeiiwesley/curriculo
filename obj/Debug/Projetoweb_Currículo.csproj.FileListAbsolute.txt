@@ -1,0 +1,11 @@
+C:\Users\Wesley.Andrade\source\repos\Projetoweb_Currículo\bin\Debug\Projetoweb_Currículo.exe.config
+C:\Users\Wesley.Andrade\source\repos\Projetoweb_Currículo\bin\Debug\Projetoweb_Currículo.exe
+C:\Users\Wesley.Andrade\source\repos\Projetoweb_Currículo\bin\Debug\Projetoweb_Currículo.pdb
+C:\Users\Wesley.Andrade\source\repos\Projetoweb_Currículo\obj\Debug\Projetoweb_Currículo.csproj.AssemblyReference.cache
+C:\Users\Wesley.Andrade\source\repos\Projetoweb_Currículo\obj\Debug\Projetoweb_Currículo.Properties.Resources.resources
+C:\Users\Wesley.Andrade\source\repos\Projetoweb_Currículo\obj\Debug\Projetoweb_Currículo.csproj.GenerateResource.cache
+C:\Users\Wesley.Andrade\source\repos\Projetoweb_Currículo\obj\Debug\Projetoweb_Currículo.csproj.CoreCompileInputs.cache
+C:\Users\Wesley.Andrade\source\repos\Projetoweb_Currículo\obj\Debug\Projetoweb_Currículo.exe
+C:\Users\Wesley.Andrade\source\repos\Projetoweb_Currículo\obj\Debug\Projetoweb_Currículo.pdb
+C:\Users\Wesley.Andrade\source\repos\Projetoweb_Currículo\obj\Debug\Projetoweb_Currículo.Form1.resources
+C:\Users\Wesley.Andrade\source\repos\Projetoweb_Currículo\obj\Debug\Projetoweb_Currículo.FrmMenu.resources
